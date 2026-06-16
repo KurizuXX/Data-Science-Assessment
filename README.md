@@ -1,5 +1,5 @@
 # Data-Science-Assessment | Programación para la Ciencia de Datos (SCY1101)
-Repositorio dedicado a la resolución de la evaluación 1 de la asignatura Programación para la Ciencia de Datos.
+Repositorio dedicado a la resolución de la evaluación 3 de la asignatura Programación para la Ciencia de Datos mediante un dataset de Google Play Store Apps.
 
 ## Recurso: Colaborando en el código - Control de versiones con Git y GitHub
 
